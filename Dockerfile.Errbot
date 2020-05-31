@@ -1,0 +1,13 @@
+FROM python:3.8-alpine
+MAINTAINER yaphetsglhf@gmail.com
+
+RUN pip3 install errbot
+
+ARG WORKDIR=/app
+RUN mkdir -p ${WORKDIR}
+COPY . ${WORKDIR}/
+
+WORKDIR ${WORKDIR}
+
+RUN cp -r backup/ data/
+CMD ['errbot',  '--daemon']
