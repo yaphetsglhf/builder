@@ -1,2 +1,3 @@
 FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init@sha256:d82c78288699dd6ee40c852b146cb3bd89b322b42fb3bc4feec28ea54bb7b36c
+RUN apk add python3
 MAINTAINER yaphetsglhf
