@@ -1,0 +1,3 @@
+FROM docker/compose:1.24.0
+MAINTAINER yaphetsglhf@gmail.com
+RUN apk add --update --no-cache make=4.2.1-r2
