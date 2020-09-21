@@ -1,0 +1,2 @@
+FROM index.docker.io/aipipeline/kubeclient:v0.0.2
+MAINTAINER yaphetsglhf@gmail.com
