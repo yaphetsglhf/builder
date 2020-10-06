@@ -1,0 +1,2 @@
+FROM gcr.io/distroless/base@sha256:60f5ffe6fc481e9102747b043b3873a01893a5a8138f970c5f5fc06fb7494656
+MAINTAINER yaphetsglhf@gmail.com
