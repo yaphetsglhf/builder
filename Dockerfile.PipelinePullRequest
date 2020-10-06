@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init@sha256:71e0226346e0d3d57af7c35b6cb907d42d3142e845b0f865ba0c86d3e248f3cb
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.17.0@sha256:7d2820af331c349ee6eb9f187fac469c2b1eab65ea6d505adc15396df8ebde1f
 MAINTAINER yaphetsglhf@gmail.com

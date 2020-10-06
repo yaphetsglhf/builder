@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint@sha256:7f3db925f7660673a74b0e1030e65540adea36fe361ab7f06f5b5c47cdcef47d
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.17.0@sha256:3566c77d313eba5dc5ca1c015007205fc78a4141de2caa97ae5f01665cb00b42
 MAINTAINER yaphetsglhf
