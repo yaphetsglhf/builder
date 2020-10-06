@@ -1,2 +1,0 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.13.2
-MAINTAINER yaphetsglhf@gmail.com
