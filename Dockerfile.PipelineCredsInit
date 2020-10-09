@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/creds-init:v0.17.0@sha256:e8504b6c4dfa5374cfa97d51e7b56dc5b8980b42c67120c527c9738124b5b687
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/creds-init:v0.11.3@sha256:f64894b5774de6018d426d1c6fbc6a5d5e6ff56fb2f326780f4099bd5f7d4f2a
 MAINTAINER yaphetsglhf@gmail.com

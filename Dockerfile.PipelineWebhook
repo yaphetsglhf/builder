@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.17.0@sha256:da97d090c747c2a057d3d0b75165ce9c8820ba0792677b7da02bc3c03f1daeab
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.11.3@sha256:56c571ca34f306e3ffc5661639145bdc3767125acc8e2040633123cf4fdc0e1e
 MAINTAINER yaphetsglhf

@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.17.0@sha256:cb4dcc7ea5c31643c59058b5d60f7f43a0a7789e3e001497e711773a06bac01c
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.11.3@sha256:c0ac90740dc6d3771f77f8bca5e3fef6b5bb97b7eef189f90488553a874aa602
 MAINTAINER yaphetsglhf@gmail.com
