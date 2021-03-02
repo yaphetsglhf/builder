@@ -1,3 +1,2 @@
-# FROM gcr.io/kaniko-project/executor:latest
-FROM gcr.io/kaniko-project/executor:v1.2.0
+FROM gcr.io/kaniko-project/executor:v1.5.1
 MAINTAINER yaphetsglhf@gmail.com
